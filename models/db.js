@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-mongoose.connect('mongodb+srv://ichris:hv29k99kzPaFMkSp@cluster0.rpaco.mongodb.net/travelAgent?retryWrites=true&w=majority', {
+mongoose.connect('mongodb+srv://ichris:uRltYApIKnACkOXK@cluster0.rpaco.mongodb.net/travelAgent?retryWrites=true&w=majority', {
     useNewUrlParser: true,
     useUnifiedTopology: true
 });
